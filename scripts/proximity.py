@@ -633,7 +633,7 @@ def main():
                 "distance_to_population",
                 mean_anime, mean_random,
                 med_anime, med_random,
-                sd_anime, sd_random,
+                sd_anime, sd_random, 
                 t, p
             ])
 
